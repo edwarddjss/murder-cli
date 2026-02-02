@@ -1,0 +1,1 @@
+My first go project. An easier way to kill ports. Instead of running `fuser <port>/tcp` and then `kill -9 <pid>` i wanted to be able to do `murder <port>` and it kills the port for me. Noob project but we all start somewhere!! and i vibe code way too much so this made me turn on my brain.
